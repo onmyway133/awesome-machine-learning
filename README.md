@@ -5,6 +5,15 @@ This will curates things mostly related to Core ML, and Swift. There are related
 
 I just learn so I don't want to include very advanced, low level stuff in this list 😇
 
+## Table of contents
+
+- [Core ML](#core-ml)
+- [Computer Vision](#computer-vision)
+- [Natural Language Processing](#natural-language-processing)
+- [Augmented Reality](#augmented-reality)
+- [General Learning](#general-learning)
+- [Misc](#misc)
+
 ## Core ML
 
 ### General
