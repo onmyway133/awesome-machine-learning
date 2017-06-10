@@ -10,7 +10,6 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Core ML](#core-ml)
 - [Computer Vision](#computer-vision)
 - [Natural Language Processing](#natural-language-processing)
-- [Augmented Reality](#augmented-reality)
 - [General Learning](#general-learning)
 - [Misc](#misc)
 
@@ -43,12 +42,6 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 ### General
 
 - [NSLinguisticTagger](https://developer.apple.com/documentation/foundation/nslinguistictagger) Analyze natural language to tag part of speech and lexical class, identify proper names, perform lemmatization, and determine the language and script (orthography) of text.
-
-## Augmented Reality
-
-### General
-
-- [ARKIt](https://developer.apple.com/arkit/)
 
 ## General Learning
 
