@@ -31,6 +31,10 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [deep-learning-models](https://github.com/fchollet/deep-learning-models) Keras code and weights files for popular deep learning models.
 - [tensorflow models](https://github.com/tensorflow/models) Models built with TensorFlow
 
+## Tutorials
+
+- [Swift Tutorial: Native Machine Learning and Machine Vision in iOS 11](https://hackernoon.com/swift-tutorial-native-machine-learning-and-machine-vision-in-ios-11-11e1e88aa397)
+
 ## Computer Vision
 
 ### General
