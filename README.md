@@ -47,6 +47,11 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 - [NSLinguisticTagger](https://developer.apple.com/documentation/foundation/nslinguistictagger) Analyze natural language to tag part of speech and lexical class, identify proper names, perform lemmatization, and determine the language and script (orthography) of text.
 
+### Guide
+
+- [Linguistic Tagging](https://www.objc.io/issues/7-foundation/linguistic-tagging/)
+- [NSLinguisticTagger on NSHipster](http://nshipster.com/nslinguistictagger/)
+
 ## General Learning
 
 ### Overview
