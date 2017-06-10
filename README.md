@@ -5,19 +5,19 @@ This will curates things mostly related to Core ML, and Swift. There are related
 
 I just learn so I don't want to include very advanced, low level stuff in this list 😇
 
-# Core ML
+## Core ML
 
-## General
+### General
 
 - [Machine Learning](https://developer.apple.com/machine-learning/) Build more intelligent apps with machine learning.
 
-## Introduction
+### Introduction
 
 - [Introducing Core ML](https://developer.apple.com/videos/play/wwdc2017/703/)
 - [Core ML in depth](https://developer.apple.com/videos/play/wwdc2017/710/)
 - [Core ML and Vision: Machine Learning in iOS 11 Tutorial](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
 
-## Models :rocket:
+### Models :rocket:
 
 - [caffe](https://github.com/BVLC/caffe) Caffe: a fast open framework for deep learning. http://caffe.berkeleyvision.org/
 - [deep-learning-models](https://github.com/fchollet/deep-learning-models) Keras code and weights files for popular deep learning models.
