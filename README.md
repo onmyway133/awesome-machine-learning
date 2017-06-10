@@ -1,7 +1,9 @@
 # fantastic-machine-learning
-I like to explore machine learning, but don't want the to dive into other platforms, like Python or Javascript, to understand some frameworks, or TensorFlow. Luckily, at WWDC 2017, Apple introduces Core ML, Vision, ARKit, which makes working with machine learning so much easier. With all the pre-trained models, we can build great things. It's good to feel the outcome first, then try to explore advanced topics and underlying mechanisms. 
+I like to explore machine learning, but don't want the to dive into other platforms, like Python or Javascript, to understand some frameworks, or TensorFlow. Luckily, at WWDC 2017, Apple introduces Core ML, Vision, ARKit, which makes working with machine learning so much easier. With all the pre-trained models, we can build great things. It's good to feel the outcome first, then try to explore advanced topics and underlying mechanisms 🤖
 
 This will curates things mostly related to Core ML, and Swift. There are related things in other platforms if you want to get some references
+
+I just learn so I don't want to include very advanced, low level stuff in this list 😇
 
 # Core ML
 
@@ -43,11 +45,16 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
 - [Machine Learning for Developers For absolute beginners and fifth graders](https://xyclade.github.io/MachineLearning/)
+- [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) Dive into Machine Learning with Python Jupyter notebook and scikit-learn
 
 ### Courses
 
 - [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
 - [Machine Learning](http://introtodeeplearning.com/index.html)
+
+### Interview
+
+- [41 Essential Machine Learning Interview Questions](https://www.springboard.com/blog/machine-learning-interview-questions/)
 
 ## Misc
 
