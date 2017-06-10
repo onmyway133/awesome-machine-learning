@@ -97,7 +97,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 #### Swift
 
-- [TensorSwift](https://github.com/qoncept/TensorSwift) https://github.com/qoncept/TensorSwift
+- [TensorSwift](https://github.com/qoncept/TensorSwift) A lightweight library to calculate tensors in Swift, which has similar APIs to TensorFlow's
 - [Forge](https://github.com/hollance/Forge) A neural network toolkit for Metal
 - [Swift-AI](https://github.com/Swift-AI/Swift-AI) The Swift machine learning library.
 - [Swift-Brain](https://github.com/vlall/Swift-Brain) Artificial intelligence/machine learning data structures and Swift algorithms for future iOS development. bayes theorem, neural networks, and more AI.
