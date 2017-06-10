@@ -76,6 +76,12 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Machine Learning for Developers For absolute beginners and fifth graders](https://xyclade.github.io/MachineLearning/)
 - [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) Dive into Machine Learning with Python Jupyter notebook and scikit-learn
 
+### Guide in Swift
+
+- [Machine Learning for iOS](https://www.invasivecode.com/weblog/machine-learning-swift-ios/)
+- [Project 34: Four in a Row](https://www.hackingwithswift.com/read/34/overview)
+- [Use TensorFlow and BNNS to Add Machine Learning to your Mac or iOS App](https://www.bignerdranch.com/blog/use-tensorflow-and-bnns-to-add-machine-learning-to-your-mac-or-ios-app/)
+
 ### Courses
 
 - [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
