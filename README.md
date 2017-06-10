@@ -23,6 +23,14 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [deep-learning-models](https://github.com/fchollet/deep-learning-models) Keras code and weights files for popular deep learning models.
 - [tensorflow models](https://github.com/tensorflow/models) Models built with TensorFlow
 
+### Computer Vision
+
+- [Vision](https://developer.apple.com/documentation/vision) Apply high-performance image analysis and computer vision techniques to identify faces, detect features, and classify scenes in images and video.
+
+### Natural Language Processing
+
+- [NSLinguisticTagger](https://developer.apple.com/documentation/foundation/nslinguistictagger) Analyze natural language to tag part of speech and lexical class, identify proper names, perform lemmatization, and determine the language and script (orthography) of text.
+
 ## General Learning
 
 ### Overview
