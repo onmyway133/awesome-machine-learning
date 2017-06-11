@@ -30,6 +30,10 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [caffe](https://github.com/BVLC/caffe) Caffe: a fast open framework for deep learning. http://caffe.berkeleyvision.org/
 - [deep-learning-models](https://github.com/fchollet/deep-learning-models) Keras code and weights files for popular deep learning models.
 - [tensorflow models](https://github.com/tensorflow/models) Models built with TensorFlow
+- [libSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) A Library for Support Vector Machines
+- [scikit-learn](http://scikit-learn.org/) Machine Learning in Python
+- [xgboost](https://github.com/dmlc/xgboost) Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+- [Keras-Classification-Models](https://github.com/titu1994/Keras-Classification-Models) Collection of Keras models used for classification
 
 ## Tutorials
 
@@ -113,3 +117,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 #### Python
 
 - [TensorFlow](https://www.tensorflow.org/get_started/mnist/beginners) An open-source software library for Machine Intelligence
+
+#### Scala
+
+- [incubator-predictionio](https://github.com/apache/incubator-predictionio) PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.
