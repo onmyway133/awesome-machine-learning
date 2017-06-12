@@ -79,6 +79,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
 - [Machine Learning for Developers For absolute beginners and fifth graders](https://xyclade.github.io/MachineLearning/)
 - [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) Dive into Machine Learning with Python Jupyter notebook and scikit-learn
+- [An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 
 ### Guide in Swift
 
