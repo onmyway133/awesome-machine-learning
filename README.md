@@ -43,11 +43,11 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 - [coremltools](https://pypi.python.org/pypi/coremltools) coremltools in a python package for creating, examining, and testing models in the .mlmodel format
 
-## Tutorials
+### Tutorials
 
 - [Swift Tutorial: Native Machine Learning and Machine Vision in iOS 11](https://hackernoon.com/swift-tutorial-native-machine-learning-and-machine-vision-in-ios-11-11e1e88aa397)
 
-## Examples
+### Examples
 
 - [Core-ML-Sample](https://github.com/yulingtianxia/Core-ML-Sample) A Demo using Core ML Framework
 - [UnsplashExplorer-CoreML](https://github.com/ahmetws/UnsplashExplorer-CoreML) Core ML demo app with Unsplash API
