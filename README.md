@@ -194,3 +194,13 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 ### Linear Algebra
 
 - []()
+
+### Services
+
+- [Watson](https://www.ibm.com/watson/developercloud/) Enable cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs.
+- [wit.ai](https://wit.ai/) Natural Language for Developers
+- [Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/) Machine Learning on any data, any size
+- [Cloud Vision API](https://cloud.google.com/vision/) Derive insight from images with our powerful Cloud Vision API
+- [Amazon Machine Learning](https://aws.amazon.com/documentation/machine-learning/) Amazon Machine Learning makes it easy for developers to build smart applications, including applications for fraud detection, demand forecasting, targeted marketing, and click prediction
+- [api.ai](https://api.ai/) Build brand-unique, natural language interactions for bots, applications, services, and devices.
+- [clarifai](https://developer.clarifai.com/) Build amazing apps with the world’s best image and video recognition API.
