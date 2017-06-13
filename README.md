@@ -82,6 +82,11 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 - [Metal](https://developer.apple.com/metal/)
 
+### Guide
+
+- [MPSCNNHelloWorld: Simple Digit Detection Convolution Neural Networks (CNN)](https://developer.apple.com/library/content/samplecode/MPSCNNHelloWorld/Introduction/Intro.html)
+- [MetalImageRecognition: Performing Image Recognition](https://developer.apple.com/library/content/samplecode/MetalImageRecognition/Introduction/Intro.html)
+
 ### Repos
 
 - [Forge](https://github.com/hollance/Forge) A neural network toolkit for Metal
