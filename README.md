@@ -70,6 +70,11 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Linguistic Tagging](https://www.objc.io/issues/7-foundation/linguistic-tagging/)
 - [NSLinguisticTagger on NSHipster](http://nshipster.com/nslinguistictagger/)
 
+### Repos
+
+- [CoreLinguistics](https://github.com/rxwei/CoreLinguistics) This repository contains some fundamental data structures for NLP.
+- [SwiftVerbalExpressions](https://github.com/VerbalExpressions/SwiftVerbalExpressions) Swift Port of VerbalExpressions
+
 ## Metal
 
 ### General
