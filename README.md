@@ -94,6 +94,8 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 ### Guide
 
 - [Project 34: Four in a Row](https://www.hackingwithswift.com/read/34/overview)
+- [GKMinmaxStrategist: What does it take to build a TicTacToe AI?](http://tilemapkit.com/2015/07/gkminmaxstrategist-build-tictactoe-ai/)
+- [GameplayKit Tutorial: Artificial Intelligence](https://www.raywenderlich.com/146407/gameplaykit-tutorial-artificial-intelligence)
 
 ## Artificial Intelligence
 
