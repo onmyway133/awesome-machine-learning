@@ -60,6 +60,10 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 - [Vision](https://developer.apple.com/documentation/vision) Apply high-performance image analysis and computer vision techniques to identify faces, detect features, and classify scenes in images and video.
 
+### Guide
+
+- [Blog-Getting-Started-with-Vision](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision)
+
 ## Natural Language Processing
 
 ### General
