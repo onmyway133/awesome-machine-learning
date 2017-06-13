@@ -13,6 +13,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Metal](#metal)
 - [GamePlayKit](#gameplaykit)
 - [Artificial Intelligence](#artificial-intelligence)
+- [Speech Recognition](#speech-recognition)
 - [General Learning](#general-learning)
 - [Misc](#misc)
 
@@ -103,6 +104,20 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 - [The classic ELIZA chat bot in Swift.](https://gist.github.com/hollance/be70d0d7952066cb3160d36f33e5636f)
 - [Introduction to AI Programming for Games](https://www.raywenderlich.com/24824/introduction-to-ai-programming-for-games)
+
+## Speech Recognition
+
+### General
+
+- [Speech](https://developer.apple.com/documentation/speech)
+
+### Guide
+
+- [Using the Speech Recognition API in iOS 10](https://code.tutsplus.com/tutorials/using-the-speech-recognition-api-in-ios-10--cms-28032)
+
+### Repos
+
+- [CeedVocal](https://github.com/creaceed/CeedVocal) Speech Recognition Library for iOS
 
 ## General Learning
 
