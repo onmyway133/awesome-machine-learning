@@ -125,6 +125,9 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 - [Machine Learning for iOS](https://www.invasivecode.com/weblog/machine-learning-swift-ios/)
 - [Use TensorFlow and BNNS to Add Machine Learning to your Mac or iOS App](https://www.bignerdranch.com/blog/use-tensorflow-and-bnns-to-add-machine-learning-to-your-mac-or-ios-app/)
+- [The “hello world” of neural networks](http://machinethink.net/blog/the-hello-world-of-neural-networks/)
+- [Convolutional Neural Networks in iOS 10 and macOS](https://www.invasivecode.com/weblog/convolutional-neural-networks-ios-10-macos-sierra/)
+- [LearningMachineLearning](https://github.com/graceavery/LearningMachineLearning) Swift implementation of "Data Science From Scratch" and http://karpathy.github.io/neuralnets/
 
 ### Courses
 
@@ -153,7 +156,12 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 ### Accelerate
 
 - [Accelerate-in-Swift](https://github.com/hyperjeff/Accelerate-in-Swift) Swift example codes for the Accelerate.framework
+- [Surge](https://github.com/mattt/Surge) A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.
 
 ### Statistics
 
 - [SigmaSwiftStatistics](https://github.com/evgenyneu/SigmaSwiftStatistics) A collection of functions for statistical calculation written in Swift
+
+### Linear Algebra
+
+- []()
