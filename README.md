@@ -123,6 +123,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 ### Guide
 
 - [Using the Speech Recognition API in iOS 10](https://code.tutsplus.com/tutorials/using-the-speech-recognition-api-in-ios-10--cms-28032)
+- [Speech Recognition Tutorial for iOS](https://www.raywenderlich.com/155752/speech-recognition-tutorial-ios)
 
 ### Repos
 
