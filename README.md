@@ -29,6 +29,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Core ML in depth](https://developer.apple.com/videos/play/wwdc2017/710/)
 - [Core ML and Vision: Machine Learning in iOS 11 Tutorial](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
 - [iOS 11: Machine Learning for everyone](http://machinethink.net/blog/ios-11-machine-learning-for-everyone/)
+- [Everything a Swift Dev Ever Wanted to Know About Machine Learning](https://news.realm.io/news/swift-developer-on-machine-learning-try-swift-2017-gallagher/)
 
 ### Models :rocket:
 
@@ -162,6 +163,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [The “hello world” of neural networks](http://machinethink.net/blog/the-hello-world-of-neural-networks/)
 - [Convolutional Neural Networks in iOS 10 and macOS](https://www.invasivecode.com/weblog/convolutional-neural-networks-ios-10-macos-sierra/)
 - [LearningMachineLearning](https://github.com/graceavery/LearningMachineLearning) Swift implementation of "Data Science From Scratch" and http://karpathy.github.io/neuralnets/
+- [Getting started with TensorFlow on iOS](http://machinethink.net/blog/tensorflow-on-ios/)
 
 ### Courses
 
