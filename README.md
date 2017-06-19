@@ -64,6 +64,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 ### Guide
 
 - [Blog-Getting-Started-with-Vision](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision)
+- [Swift World: What’s new in iOS 11 — Vision](https://medium.com/compileswift/swift-world-whats-new-in-ios-11-vision-456ba4156bad)
 
 ## Natural Language Processing
 
