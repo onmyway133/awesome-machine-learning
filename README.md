@@ -167,7 +167,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Convolutional Neural Networks in iOS 10 and macOS](https://www.invasivecode.com/weblog/convolutional-neural-networks-ios-10-macos-sierra/)
 - [LearningMachineLearning](https://github.com/graceavery/LearningMachineLearning) Swift implementation of "Data Science From Scratch" and http://karpathy.github.io/neuralnets/
 - [Getting started with TensorFlow on iOS](http://machinethink.net/blog/tensorflow-on-ios/)
-- [The “hello world” of neural networks](http://machinethink.net/blog/the-hello-world-of-neural-networks/)
+- [The “hello world” of neural networks](http://machinethink.net/blog/the-hello-world-of-neural-networks/) 👶
 
 ### Courses
 
