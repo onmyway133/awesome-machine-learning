@@ -168,6 +168,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [LearningMachineLearning](https://github.com/graceavery/LearningMachineLearning) Swift implementation of "Data Science From Scratch" and http://karpathy.github.io/neuralnets/
 - [Getting started with TensorFlow on iOS](http://machinethink.net/blog/tensorflow-on-ios/)
 - [The “hello world” of neural networks](http://machinethink.net/blog/the-hello-world-of-neural-networks/) 👶
+- [EmojiIntelligence](https://github.com/Luubra/EmojiIntelligence) Neural Network built in Apple Playground using Swift 👶
 
 ### Courses
 
@@ -185,7 +186,6 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [TensorSwift](https://github.com/qoncept/TensorSwift) A lightweight library to calculate tensors in Swift, which has similar APIs to TensorFlow's
 - [Swift-AI](https://github.com/Swift-AI/Swift-AI) The Swift machine learning library.
 - [Swift-Brain](https://github.com/vlall/Swift-Brain) Artificial intelligence/machine learning data structures and Swift algorithms for future iOS development. bayes theorem, neural networks, and more AI.
-- [EmojiIntelligence](https://github.com/Luubra/EmojiIntelligence) Neural Network built in Apple Playground using Swift
 - [Bender](https://github.com/xmartlabs/Bender) Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
 - [BrainCore](https://github.com/aleph7/BrainCore) The iOS and OS X neural network framework
 - [AIToolbox](https://github.com/KevinCoble/AIToolbox) A toolbox of AI modules written in Swift: Graphs/Trees, Support Vector Machines, Neural Networks, PCA, K-Means, Genetic Algorithms
