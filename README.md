@@ -92,6 +92,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 - [MPSCNNHelloWorld: Simple Digit Detection Convolution Neural Networks (CNN)](https://developer.apple.com/library/content/samplecode/MPSCNNHelloWorld/Introduction/Intro.html)
 - [MetalImageRecognition: Performing Image Recognition](https://developer.apple.com/library/content/samplecode/MetalImageRecognition/Introduction/Intro.html)
+- [Apple’s deep learning frameworks: BNNS vs. Metal CNN](http://machinethink.net/blog/apple-deep-learning-bnns-versus-metal-cnn/)
 
 ### Repos
 
