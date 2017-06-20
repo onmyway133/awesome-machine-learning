@@ -191,6 +191,11 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [brain](https://github.com/harthur/brain) Neural networks in JavaScript
 - [TensorFlow](https://www.tensorflow.org/get_started/mnist/beginners) An open-source software library for Machine Intelligence
 - [incubator-predictionio](https://github.com/apache/incubator-predictionio) PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.
+- [Caffe](http://caffe.berkeleyvision.org/) Deep learning framework by BAIR
+- [Torch](http://torch.ch/) A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT
+- [Theano](http://www.deeplearning.net/software/theano/) Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
+- [CNTK](https://github.com/Microsoft/CNTK) Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
+- [MXNet](http://mxnet.io/) Lightweight, Portable, Flexible Distributed/Mobile Deep Learning
 
 ### Accelerate
 
@@ -214,3 +219,4 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Amazon Machine Learning](https://aws.amazon.com/documentation/machine-learning/) Amazon Machine Learning makes it easy for developers to build smart applications, including applications for fraud detection, demand forecasting, targeted marketing, and click prediction
 - [api.ai](https://api.ai/) Build brand-unique, natural language interactions for bots, applications, services, and devices.
 - [clarifai](https://developer.clarifai.com/) Build amazing apps with the world’s best image and video recognition API.
+- [openml](https://www.openml.org/) Explore machine learning together
