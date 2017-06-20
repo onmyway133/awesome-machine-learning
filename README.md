@@ -40,6 +40,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [scikit-learn](http://scikit-learn.org/) Machine Learning in Python
 - [xgboost](https://github.com/dmlc/xgboost) Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
 - [Keras-Classification-Models](https://github.com/titu1994/Keras-Classification-Models) Collection of Keras models used for classification
+- [MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe) Caffe Implementation of Google's MobileNets
 
 ### Tools
 
