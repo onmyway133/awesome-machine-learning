@@ -231,4 +231,4 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 ### Speech Synthesizer
 
-- [AVSpeechSynthesizer](https://developer.apple.com/documentation/avfoundation/avspeechsynthesizer)
+- [AVSpeechSynthesizer](https://developer.apple.com/documentation/avfoundation/avspeechsynthesizer) An object that produces synthesized speech from text utterances and provides controls for monitoring or controlling ongoing speech.
