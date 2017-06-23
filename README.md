@@ -221,3 +221,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [api.ai](https://api.ai/) Build brand-unique, natural language interactions for bots, applications, services, and devices.
 - [clarifai](https://developer.clarifai.com/) Build amazing apps with the world’s best image and video recognition API.
 - [openml](https://www.openml.org/) Exploring machine learning together
+
+### Text Recognition
+
+- [Tesseract OCR Tutorial](https://www.raywenderlich.com/93276/implementing-tesseract-ocr-ios)
