@@ -226,3 +226,4 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 - [Tesseract OCR Tutorial](https://www.raywenderlich.com/93276/implementing-tesseract-ocr-ios)
 - [Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS) Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64.
+- [tesseract.js](https://github.com/naptha/tesseract.js) Pure Javascript OCR for 62 Languages
