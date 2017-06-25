@@ -225,6 +225,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [The classic ELIZA chat bot in Swift.](https://gist.github.com/hollance/be70d0d7952066cb3160d36f33e5636f)
 - [Introduction to AI Programming for Games](https://www.raywenderlich.com/24824/introduction-to-ai-programming-for-games)
 
-### Cloud Vision API
+### Google Cloud Platform for Machine Learning
 
+- [Machine Learning](https://cloud.google.com/products/machine-learning/)
 - [Machine Learning APIs by Example (Google I/O '17)](https://www.youtube.com/watch?v=ETeeSYMGZn0)
