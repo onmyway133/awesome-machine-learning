@@ -12,8 +12,6 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Natural Language Processing](#natural-language-processing)
 - [Metal](#metal)
 - [GamePlayKit](#gameplaykit)
-- [Artificial Intelligence](#artificial-intelligence)
-- [Speech Recognition](#speech-recognition)
 - [General Learning](#general-learning)
 - [Misc](#misc)
 
@@ -109,25 +107,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 - [Project 34: Four in a Row](https://www.hackingwithswift.com/read/34/overview)
 - [GKMinmaxStrategist: What does it take to build a TicTacToe AI?](http://tilemapkit.com/2015/07/gkminmaxstrategist-build-tictactoe-ai/)
-- [GameplayKit Tutorial: Artificial Intelligence](https://www.raywenderlich.com/146407/gameplaykit-tutorial-artificial-intelligence)
-
-## Artificial Intelligence
-
-### Posts
-
-- [The classic ELIZA chat bot in Swift.](https://gist.github.com/hollance/be70d0d7952066cb3160d36f33e5636f)
-- [Introduction to AI Programming for Games](https://www.raywenderlich.com/24824/introduction-to-ai-programming-for-games)
-
-## Speech Recognition
-
-### General
-
-- [Speech](https://developer.apple.com/documentation/speech)
-
-### Guide
-
-- [Using the Speech Recognition API in iOS 10](https://code.tutsplus.com/tutorials/using-the-speech-recognition-api-in-ios-10--cms-28032)
-- [Speech Recognition Tutorial for iOS](https://www.raywenderlich.com/155752/speech-recognition-tutorial-ios)
+- [GameplayKit Tutorial: Artificial Intelligence](https://www.raywenderlich.com/146407/gameplaykit-tutorial-artificial-intelligence
 
 ### Repos
 
@@ -228,7 +208,18 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS) Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64.
 - [tesseract.js](https://github.com/naptha/tesseract.js) Pure Javascript OCR for 62 Languages
 
+### Speech Recognition
+
+- [Speech](https://developer.apple.com/documentation/speech)
+- [Using the Speech Recognition API in iOS 10](https://code.tutsplus.com/tutorials/using-the-speech-recognition-api-in-ios-10--cms-28032)
+- [Speech Recognition Tutorial for iOS](https://www.raywenderlich.com/155752/speech-recognition-tutorial-ios)
 
 ### Speech Synthesizer
 
 - [AVSpeechSynthesizer](https://developer.apple.com/documentation/avfoundation/avspeechsynthesizer) An object that produces synthesized speech from text utterances and provides controls for monitoring or controlling ongoing speech.
+
+
+### Artificial Intelligence
+
+- [The classic ELIZA chat bot in Swift.](https://gist.github.com/hollance/be70d0d7952066cb3160d36f33e5636f)
+- [Introduction to AI Programming for Games](https://www.raywenderlich.com/24824/introduction-to-ai-programming-for-games)
