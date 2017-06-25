@@ -183,6 +183,10 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Accelerate-in-Swift](https://github.com/hyperjeff/Accelerate-in-Swift) Swift example codes for the Accelerate.framework
 - [Surge](https://github.com/mattt/Surge) A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.
 
+### TensorFlow
+
+- [Open Source TensorFlow Models (Google I/O '17)](https://www.youtube.com/watch?v=9ziVGkt8Gg4)
+
 ### Statistics
 
 - [SigmaSwiftStatistics](https://github.com/evgenyneu/SigmaSwiftStatistics) A collection of functions for statistical calculation written in Swift
@@ -223,3 +227,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 - [The classic ELIZA chat bot in Swift.](https://gist.github.com/hollance/be70d0d7952066cb3160d36f33e5636f)
 - [Introduction to AI Programming for Games](https://www.raywenderlich.com/24824/introduction-to-ai-programming-for-games)
+
+### Cloud Vision API
+
+- [Machine Learning APIs by Example (Google I/O '17)](https://www.youtube.com/watch?v=ETeeSYMGZn0)
