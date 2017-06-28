@@ -135,6 +135,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 - [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 - [How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Nativ](https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
+- [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 
 ### Guide in Swift
 
