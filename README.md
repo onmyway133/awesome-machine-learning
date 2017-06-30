@@ -53,7 +53,8 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Core-ML-Sample](https://github.com/yulingtianxia/Core-ML-Sample) A Demo using Core ML Framework
 - [UnsplashExplorer-CoreML](https://github.com/ahmetws/UnsplashExplorer-CoreML) Core ML demo app with Unsplash API
 - [MNIST_DRAW](https://github.com/hwchong/MNIST_DRAW) This is a sample project demonstrating the use of Keras (Tensorflow) for the training of a MNIST model for handwriting recognition using CoreML on iOS 11 for inference.
-
+- [CocoaAI](https://github.com/cocoa-ai/CocoaAI) The Cocoa Artificial Intelligence Lab 
+ 
 ## Vision
 
 ### General
