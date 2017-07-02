@@ -118,6 +118,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 - [10 Machine Learning Terms Explained in Simple English](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
 
+
 ### How to learn
 
 - [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c)
@@ -153,6 +154,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 - [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
 - [Machine Learning](http://introtodeeplearning.com/index.html)
+- [Introduction - Intro to Machine Learning on Udacity](https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 
 ### Interview
 
