@@ -20,6 +20,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 ### General
 
 - [Machine Learning](https://developer.apple.com/machine-learning/) Build more intelligent apps with machine learning.
+- [Apple Machine Learning Journal](https://machinelearning.apple.com/)
 
 ### Introduction
 
