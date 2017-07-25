@@ -29,6 +29,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Core ML and Vision: Machine Learning in iOS 11 Tutorial](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
 - [iOS 11: Machine Learning for everyone](http://machinethink.net/blog/ios-11-machine-learning-for-everyone/)
 - [Everything a Swift Dev Ever Wanted to Know About Machine Learning](https://news.realm.io/news/swift-developer-on-machine-learning-try-swift-2017-gallagher/)
+- [Bringing machine learning to your iOS apps](https://news.realm.io/news/altconf-2017-meghan-kane-bringing-machine-learning-to-your-ios-apps/)
 
 ### Models :rocket:
 
