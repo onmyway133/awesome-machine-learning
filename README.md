@@ -195,10 +195,6 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 - [SigmaSwiftStatistics](https://github.com/evgenyneu/SigmaSwiftStatistics) A collection of functions for statistical calculation written in Swift
 
-### Linear Algebra
-
-- []()
-
 ### Services
 
 - [Watson](https://www.ibm.com/watson/developercloud/) Enable cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs.
@@ -237,3 +233,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 - [Machine Learning](https://cloud.google.com/products/machine-learning/)
 - [Machine Learning APIs by Example (Google I/O '17)](https://www.youtube.com/watch?v=ETeeSYMGZn0)
+
+### Demos
+
+- [NotHotdog-Classifier](https://github.com/kmather73/NotHotdog-Classifier) What would you say if I told you there is a app on the market that tell you if you have a hotdog or not a hotdog.
