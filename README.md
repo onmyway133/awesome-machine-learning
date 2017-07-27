@@ -30,7 +30,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [iOS 11: Machine Learning for everyone](http://machinethink.net/blog/ios-11-machine-learning-for-everyone/)
 - [Everything a Swift Dev Ever Wanted to Know About Machine Learning](https://news.realm.io/news/swift-developer-on-machine-learning-try-swift-2017-gallagher/)
 - [Bringing machine learning to your iOS apps](https://news.realm.io/news/altconf-2017-meghan-kane-bringing-machine-learning-to-your-ios-apps/)
-- [Pros and cons of iOS machine learning APIs](http://machinethink.net/blog/machine-learning-apis/)
+- [Pros and cons of iOS machine learning APIs](http://machinethink.net/blog/machine-learning-apis/) :rocket:
 
 ### Models :rocket:
 
@@ -56,7 +56,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Core-ML-Sample](https://github.com/yulingtianxia/Core-ML-Sample) A Demo using Core ML Framework
 - [UnsplashExplorer-CoreML](https://github.com/ahmetws/UnsplashExplorer-CoreML) Core ML demo app with Unsplash API
 - [MNIST_DRAW](https://github.com/hwchong/MNIST_DRAW) This is a sample project demonstrating the use of Keras (Tensorflow) for the training of a MNIST model for handwriting recognition using CoreML on iOS 11 for inference.
-- [CocoaAI](https://github.com/cocoa-ai/CocoaAI) The Cocoa Artificial Intelligence Lab 
+- [CocoaAI](https://github.com/cocoa-ai/CocoaAI) The Cocoa Artificial Intelligence Lab :rocket:
  
 ## Vision
 
