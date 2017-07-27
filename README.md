@@ -234,6 +234,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Machine Learning](https://cloud.google.com/products/machine-learning/)
 - [Machine Learning APIs by Example (Google I/O '17)](https://www.youtube.com/watch?v=ETeeSYMGZn0)
 
-### Demos
+### Misc
 
 - [NotHotdog-Classifier](https://github.com/kmather73/NotHotdog-Classifier) What would you say if I told you there is a app on the market that tell you if you have a hotdog or not a hotdog.
+- [How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native](https://hackernoon.com/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
