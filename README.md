@@ -47,6 +47,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 ### Tools
 
 - [coremltools](https://pypi.python.org/pypi/coremltools) coremltools in a python package for creating, examining, and testing models in the .mlmodel format
+- [torch2coreml](https://github.com/prisma-ai/torch2coreml) This tool helps convert Torch7 models into Apple CoreML 
 
 ### Tutorials
 
