@@ -54,7 +54,6 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Swift Tutorial: Native Machine Learning and Machine Vision in iOS 11](https://hackernoon.com/swift-tutorial-native-machine-learning-and-machine-vision-in-ios-11-11e1e88aa397)
 - [How to train your own model for CoreML](http://reza.codes/2017-07-29/how-to-train-your-own-dataset-for-coreml/)
 - [Smart Gesture Recognition in iOS 11 with Core ML and TensorFlow](https://hackernoon.com/smart-gesture-recognition-in-ios-11-with-core-ml-and-tensorflow-1a0a92c99c51)
-- [A new approach to touch-based mobile interaction](https://hackernoon.com/a-new-approach-to-touch-based-mobile-interaction-ba47b14400b0)
 
 ### Examples
 
