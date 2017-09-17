@@ -61,6 +61,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [UnsplashExplorer-CoreML](https://github.com/ahmetws/UnsplashExplorer-CoreML) Core ML demo app with Unsplash API
 - [MNIST_DRAW](https://github.com/hwchong/MNIST_DRAW) This is a sample project demonstrating the use of Keras (Tensorflow) for the training of a MNIST model for handwriting recognition using CoreML on iOS 11 for inference.
 - [CocoaAI](https://github.com/cocoa-ai/CocoaAI) The Cocoa Artificial Intelligence Lab :rocket:
+- [complex-gestures-demo](https://github.com/mitochrome/complex-gestures-demo) A demonstration of using machine learning to recognize 13 complex gestures in an iOS app
  
 ## Vision
 
