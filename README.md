@@ -170,6 +170,10 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 ## Misc
 
+### Posts
+
+- [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) :rocket:
+
 ### Other ML frameworks
 
 - [TensorSwift](https://github.com/qoncept/TensorSwift) A lightweight library to calculate tensors in Swift, which has similar APIs to TensorFlow's
@@ -227,7 +231,6 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 ### Speech Synthesizer
 
 - [AVSpeechSynthesizer](https://developer.apple.com/documentation/avfoundation/avspeechsynthesizer) An object that produces synthesized speech from text utterances and provides controls for monitoring or controlling ongoing speech.
-
 
 ### Artificial Intelligence
 
