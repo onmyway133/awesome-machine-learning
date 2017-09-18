@@ -34,6 +34,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 ### Models :rocket:
 
+- [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) Largest list of models for Core ML (for iOS 11+)
 - [caffe](https://github.com/BVLC/caffe) Caffe: a fast open framework for deep learning. http://caffe.berkeleyvision.org/
 - [deep-learning-models](https://github.com/fchollet/deep-learning-models) Keras code and weights files for popular deep learning models.
 - [tensorflow models](https://github.com/tensorflow/models) Models built with TensorFlow
