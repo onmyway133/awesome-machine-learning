@@ -147,6 +147,8 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 - [How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Nativ](https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
 - [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
+- [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) :rocket:
+- [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
 
 ### Guide in Swift
 
@@ -170,10 +172,6 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [41 Essential Machine Learning Interview Questions](https://www.springboard.com/blog/machine-learning-interview-questions/)
 
 ## Misc
-
-### Posts
-
-- [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) :rocket:
 
 ### Other ML frameworks
 
