@@ -8,11 +8,6 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 ## Table of contents
 
 - [Core ML](#core-ml)
-- [Vision](#vision)
-- [Natural Language Processing](#natural-language-processing)
-- [Metal](#metal)
-- [GamePlayKit](#gameplaykit)
-- [General Learning](#general-learning)
 - [Misc](#misc)
 
 ## Core ML
@@ -56,79 +51,55 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [How to train your own model for CoreML](http://reza.codes/2017-07-29/how-to-train-your-own-dataset-for-coreml/)
 - [Smart Gesture Recognition in iOS 11 with Core ML and TensorFlow](https://hackernoon.com/smart-gesture-recognition-in-ios-11-with-core-ml-and-tensorflow-1a0a92c99c51)
 
-### Examples
+### Repos
 
 - [Core-ML-Sample](https://github.com/yulingtianxia/Core-ML-Sample) A Demo using Core ML Framework
 - [UnsplashExplorer-CoreML](https://github.com/ahmetws/UnsplashExplorer-CoreML) Core ML demo app with Unsplash API
 - [MNIST_DRAW](https://github.com/hwchong/MNIST_DRAW) This is a sample project demonstrating the use of Keras (Tensorflow) for the training of a MNIST model for handwriting recognition using CoreML on iOS 11 for inference.
 - [CocoaAI](https://github.com/cocoa-ai/CocoaAI) The Cocoa Artificial Intelligence Lab :rocket:
 - [complex-gestures-demo](https://github.com/mitochrome/complex-gestures-demo) A demonstration of using machine learning to recognize 13 complex gestures in an iOS app
+ - [Core-ML-Car-Recognition](https://github.com/likedan/Core-ML-Car-Recognition) A Car Recognition Framework for CoreML
  
-## Vision
+## Misc
 
-### General
+### Vision
 
 - [Vision](https://developer.apple.com/documentation/vision) Apply high-performance image analysis and computer vision techniques to identify faces, detect features, and classify scenes in images and video.
-
-### Guide
-
 - [Blog-Getting-Started-with-Vision](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision)
 - [Swift World: What’s new in iOS 11 — Vision](https://medium.com/compileswift/swift-world-whats-new-in-ios-11-vision-456ba4156bad)
 
-## Natural Language Processing
-
-### General
+### Natural Language Processing
 
 - [NSLinguisticTagger](https://developer.apple.com/documentation/foundation/nslinguistictagger) Analyze natural language to tag part of speech and lexical class, identify proper names, perform lemmatization, and determine the language and script (orthography) of text.
-
-### Guide
-
 - [Linguistic Tagging](https://www.objc.io/issues/7-foundation/linguistic-tagging/)
 - [NSLinguisticTagger on NSHipster](http://nshipster.com/nslinguistictagger/)
-
-### Repos
-
 - [CoreLinguistics](https://github.com/rxwei/CoreLinguistics) This repository contains some fundamental data structures for NLP.
 - [SwiftVerbalExpressions](https://github.com/VerbalExpressions/SwiftVerbalExpressions) Swift Port of VerbalExpressions
 
-## Metal
-
-### General
+### Metal
 
 - [Metal](https://developer.apple.com/metal/)
-
-### Guide
-
 - [MPSCNNHelloWorld: Simple Digit Detection Convolution Neural Networks (CNN)](https://developer.apple.com/library/content/samplecode/MPSCNNHelloWorld/Introduction/Intro.html)
 - [MetalImageRecognition: Performing Image Recognition](https://developer.apple.com/library/content/samplecode/MetalImageRecognition/Introduction/Intro.html)
 - [Apple’s deep learning frameworks: BNNS vs. Metal CNN](http://machinethink.net/blog/apple-deep-learning-bnns-versus-metal-cnn/)
-
-### Repos
-
 - [Forge](https://github.com/hollance/Forge) A neural network toolkit for Metal
 
-## GamePlayKit
-
-### General
+### GamePlayKit
 
 - [GamePlayKit](https://developer.apple.com/documentation/gameplaykit)
-
-### Guide
-
 - [Project 34: Four in a Row](https://www.hackingwithswift.com/read/34/overview)
 - [GKMinmaxStrategist: What does it take to build a TicTacToe AI?](http://tilemapkit.com/2015/07/gkminmaxstrategist-build-tictactoe-ai/)
 - [GameplayKit Tutorial: Artificial Intelligence](https://www.raywenderlich.com/146407/gameplaykit-tutorial-artificial-intelligence
 
-## General Learning
+### Machine Learning
 
-### Overview
+#### Overview
 
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 - [10 Machine Learning Terms Explained in Simple English](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
 
-
-### How to learn
+#### How to learn
 
 - [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c)
 - [Machine Learning Self-study Resources](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
@@ -136,7 +107,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Getting Started with Machine Learning](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea)
 - [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0)
 
-### Guide
+#### Guide
 
 - [Machine Learning: An In-Depth Guide - Overview, Goals, Learning Types, and Algorithms](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
@@ -150,7 +121,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) :rocket:
 - [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
 
-### Guide in Swift
+#### Guide in Swift
 
 - [Machine Learning for iOS](https://www.invasivecode.com/weblog/machine-learning-swift-ios/)
 - [Use TensorFlow and BNNS to Add Machine Learning to your Mac or iOS App](https://www.bignerdranch.com/blog/use-tensorflow-and-bnns-to-add-machine-learning-to-your-mac-or-ios-app/)
@@ -161,19 +132,18 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [The “hello world” of neural networks](http://machinethink.net/blog/the-hello-world-of-neural-networks/) 👶
 - [EmojiIntelligence](https://github.com/Luubra/EmojiIntelligence) Neural Network built in Apple Playground using Swift 👶
 
-### Courses
+#### Courses
 
 - [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
 - [Machine Learning](http://introtodeeplearning.com/index.html)
 - [Introduction - Intro to Machine Learning on Udacity](https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 
-### Interview
+#### Interview
 
 - [41 Essential Machine Learning Interview Questions](https://www.springboard.com/blog/machine-learning-interview-questions/)
 
-## Misc
 
-### Other ML frameworks
+#### Other ML frameworks
 
 - [TensorSwift](https://github.com/qoncept/TensorSwift) A lightweight library to calculate tensors in Swift, which has similar APIs to TensorFlow's
 - [Swift-AI](https://github.com/Swift-AI/Swift-AI) The Swift machine learning library.
@@ -190,20 +160,20 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [CNTK](https://github.com/Microsoft/CNTK) Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 - [MXNet](http://mxnet.io/) Lightweight, Portable, Flexible Distributed/Mobile Deep Learning
 
-### Accelerate
+#### Accelerate
 
 - [Accelerate-in-Swift](https://github.com/hyperjeff/Accelerate-in-Swift) Swift example codes for the Accelerate.framework
 - [Surge](https://github.com/mattt/Surge) A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.
 
-### TensorFlow
+#### TensorFlow
 
 - [Open Source TensorFlow Models (Google I/O '17)](https://www.youtube.com/watch?v=9ziVGkt8Gg4)
 
-### Statistics
+#### Statistics
 
 - [SigmaSwiftStatistics](https://github.com/evgenyneu/SigmaSwiftStatistics) A collection of functions for statistical calculation written in Swift
 
-### Services
+#### Services
 
 - [Watson](https://www.ibm.com/watson/developercloud/) Enable cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs.
 - [wit.ai](https://wit.ai/) Natural Language for Developers
@@ -214,34 +184,34 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [clarifai](https://developer.clarifai.com/) Build amazing apps with the world’s best image and video recognition API.
 - [openml](https://www.openml.org/) Exploring machine learning together
 
-### Text Recognition
+#### Text Recognition
 
 - [Tesseract OCR Tutorial](https://www.raywenderlich.com/93276/implementing-tesseract-ocr-ios)
 - [Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS) Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64.
 - [tesseract.js](https://github.com/naptha/tesseract.js) Pure Javascript OCR for 62 Languages
 
-### Speech Recognition
+#### Speech Recognition
 
 - [Speech](https://developer.apple.com/documentation/speech)
 - [Using the Speech Recognition API in iOS 10](https://code.tutsplus.com/tutorials/using-the-speech-recognition-api-in-ios-10--cms-28032)
 - [Speech Recognition Tutorial for iOS](https://www.raywenderlich.com/155752/speech-recognition-tutorial-ios)
 - [CeedVocal](https://github.com/creaceed/CeedVocal) Speech Recognition Library for iOS
 
-### Speech Synthesizer
+#### Speech Synthesizer
 
 - [AVSpeechSynthesizer](https://developer.apple.com/documentation/avfoundation/avspeechsynthesizer) An object that produces synthesized speech from text utterances and provides controls for monitoring or controlling ongoing speech.
 
-### Artificial Intelligence
+#### Artificial Intelligence
 
 - [The classic ELIZA chat bot in Swift.](https://gist.github.com/hollance/be70d0d7952066cb3160d36f33e5636f)
 - [Introduction to AI Programming for Games](https://www.raywenderlich.com/24824/introduction-to-ai-programming-for-games)
 
-### Google Cloud Platform for Machine Learning
+#### Google Cloud Platform for Machine Learning
 
 - [Machine Learning](https://cloud.google.com/products/machine-learning/)
 - [Machine Learning APIs by Example (Google I/O '17)](https://www.youtube.com/watch?v=ETeeSYMGZn0)
 
-### Misc
+#### Misc
 
 - [NotHotdog-Classifier](https://github.com/kmather73/NotHotdog-Classifier) What would you say if I told you there is a app on the market that tell you if you have a hotdog or not a hotdog.
 - [How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native](https://hackernoon.com/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
