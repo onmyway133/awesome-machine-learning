@@ -64,7 +64,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
  
 ## Machine Learning 
 
-### Posts
+### Fundamental
 
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
@@ -86,6 +86,9 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) :rocket:
 - [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
 
+### Posts
+
+- [Machine Learning Algorithm for Flappy Bird using Neural Network and Genetic Algorithm](http://www.askforgametask.com/tutorial/machine-learning-algorithm-flappy-bird/)
  
 ## Misc
 
