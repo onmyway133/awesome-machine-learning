@@ -122,6 +122,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [GKMinmaxStrategist: What does it take to build a TicTacToe AI?](http://tilemapkit.com/2015/07/gkminmaxstrategist-build-tictactoe-ai/)
 - [GameplayKit Tutorial: Artificial Intelligence](https://www.raywenderlich.com/146407/gameplaykit-tutorial-artificial-intelligence)
 - [Gems of GameplayKit](https://vimeo.com/album/4786409/video/235143936)
+- [GameplayKit: Beyond Games](https://academy.realm.io/posts/sash-zats-gameplaykit-beyond-games/)
 
 ### Guide in Swift
 
