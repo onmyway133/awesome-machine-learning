@@ -27,6 +27,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Everything a Swift Dev Ever Wanted to Know About Machine Learning](https://news.realm.io/news/swift-developer-on-machine-learning-try-swift-2017-gallagher/)
 - [Bringing machine learning to your iOS apps](https://news.realm.io/news/altconf-2017-meghan-kane-bringing-machine-learning-to-your-ios-apps/)
 - [Pros and cons of iOS machine learning APIs](http://machinethink.net/blog/machine-learning-apis/) :rocket:
+- [Core ML: Machine Learning for iOS](https://www.udacity.com/course/core-ml--ud1038) :rocket:
 
 ### Models :rocket:
 
@@ -51,7 +52,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Swift Tutorial: Native Machine Learning and Machine Vision in iOS 11](https://hackernoon.com/swift-tutorial-native-machine-learning-and-machine-vision-in-ios-11-11e1e88aa397)
 - [How to train your own model for CoreML](http://reza.codes/2017-07-29/how-to-train-your-own-dataset-for-coreml/)
 - [Smart Gesture Recognition in iOS 11 with Core ML and TensorFlow](https://hackernoon.com/smart-gesture-recognition-in-ios-11-with-core-ml-and-tensorflow-1a0a92c99c51)
-- [DIY Prisma app with CoreML](https://blog.prismalabs.ai/diy-prisma-app-with-coreml-6b4994cc99e1)
+- [DIY Prisma app with CoreML](https://blog.prismalabs.ai/diy-prisma-app-with-coreml-6b4994cc99e1) :rocket:
 - [Using scikit-learn and CoreML to Create a Music Recommendation Engine](https://www.agnosticdev.com/blog-entry/python/using-scikit-learn-and-coreml-create-music-recommendation-engine)
 
 ### Repos
