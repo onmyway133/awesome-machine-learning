@@ -212,6 +212,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 - [Machine Learning](https://cloud.google.com/products/machine-learning/)
 - [Machine Learning APIs by Example (Google I/O '17)](https://www.youtube.com/watch?v=ETeeSYMGZn0)
+- [Adding Computer Vision to your iOS App](https://medium.com/@srobtweets/adding-computer-vision-to-your-ios-app-66d6f540cdd2)
 
 ### Others
 
