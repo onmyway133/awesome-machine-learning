@@ -94,6 +94,11 @@ I just learn so I don't want to include very advanced, low level stuff in this l
  
 ## Misc
 
+### Posts
+
+- [Understanding How Machines Learn, Through Prototyping](https://medium.com/bigtomorrow/understanding-how-machines-learn-through-prototyping-9bdaa3ce7baa#.mura2rwy2) :rocket:
+- [Training on the device](http://machinethink.net/blog/training-on-device/)
+
 ### Vision
 
 - [Vision](https://developer.apple.com/documentation/vision) Apply high-performance image analysis and computer vision techniques to identify faces, detect features, and classify scenes in images and video.
