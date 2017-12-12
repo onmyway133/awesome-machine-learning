@@ -55,6 +55,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Smart Gesture Recognition in iOS 11 with Core ML and TensorFlow](https://hackernoon.com/smart-gesture-recognition-in-ios-11-with-core-ml-and-tensorflow-1a0a92c99c51)
 - [DIY Prisma app with CoreML](https://blog.prismalabs.ai/diy-prisma-app-with-coreml-6b4994cc99e1) :rocket:
 - [Using scikit-learn and CoreML to Create a Music Recommendation Engine](https://www.agnosticdev.com/blog-entry/python/using-scikit-learn-and-coreml-create-music-recommendation-engine)
+- [Building Not Hotdog with Turi Create and Core ML — in an afternoon](https://heartbeat.fritz.ai/building-not-hotdog-with-turi-create-and-core-ml-in-an-afternoon-a87fd1967d10)
 
 ### Repos
 
