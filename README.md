@@ -65,6 +65,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [CocoaAI](https://github.com/cocoa-ai/CocoaAI) The Cocoa Artificial Intelligence Lab :rocket:
 - [complex-gestures-demo](https://github.com/mitochrome/complex-gestures-demo) A demonstration of using machine learning to recognize 13 complex gestures in an iOS app
  - [Core-ML-Car-Recognition](https://github.com/likedan/Core-ML-Car-Recognition) A Car Recognition Framework for CoreML
+ - [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) Simple project to detect objects and display 3D labels above them in AR. This serves as a basic template for an ARKit project to use CoreML
  
 ## Machine Learning 
 
