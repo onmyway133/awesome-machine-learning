@@ -66,6 +66,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [complex-gestures-demo](https://github.com/mitochrome/complex-gestures-demo) A demonstration of using machine learning to recognize 13 complex gestures in an iOS app
  - [Core-ML-Car-Recognition](https://github.com/likedan/Core-ML-Car-Recognition) A Car Recognition Framework for CoreML
  - [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) Simple project to detect objects and display 3D labels above them in AR. This serves as a basic template for an ARKit project to use CoreML
+ - [trainer-mac](https://github.com/mortenjust/trainer-mac) Trains a model, then generates a complete Xcode project that uses it - no code necessary
  
 ## Machine Learning 
 
