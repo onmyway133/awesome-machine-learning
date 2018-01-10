@@ -56,6 +56,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [DIY Prisma app with CoreML](https://blog.prismalabs.ai/diy-prisma-app-with-coreml-6b4994cc99e1) :rocket:
 - [Using scikit-learn and CoreML to Create a Music Recommendation Engine](https://www.agnosticdev.com/blog-entry/python/using-scikit-learn-and-coreml-create-music-recommendation-engine)
 - [Building Not Hotdog with Turi Create and Core ML — in an afternoon](https://heartbeat.fritz.ai/building-not-hotdog-with-turi-create-and-core-ml-in-an-afternoon-a87fd1967d10)
+- [Build a Taylor Swift detector with the TensorFlow Object Detection API, ML Engine, and Swift](https://towardsdatascience.com/build-a-taylor-swift-detector-with-the-tensorflow-object-detection-api-ml-engine-and-swift-82707f5b4a56)
 
 ### Repos
 
