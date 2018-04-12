@@ -61,6 +61,8 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Building Not Hotdog with Turi Create and Core ML — in an afternoon](https://heartbeat.fritz.ai/building-not-hotdog-with-turi-create-and-core-ml-in-an-afternoon-a87fd1967d10)
 - [Build a Taylor Swift detector with the TensorFlow Object Detection API, ML Engine, and Swift](https://towardsdatascience.com/build-a-taylor-swift-detector-with-the-tensorflow-object-detection-api-ml-engine-and-swift-82707f5b4a56)
 - [Leveraging Machine Learning in iOS For Improved Accessibility](https://medium.com/buffer-engineering/leveraging-machine-learning-in-ios-for-improved-accessibility-fc7796c5326f)
+- [IBM Watson Services for Core ML Tutorial](https://www.raywenderlich.com/190191/ibm-watson-services-for-core-ml-tutorial)
+- [Beginning Machine Learning with Keras & Core ML](https://www.raywenderlich.com/181760/beginning-machine-learning-keras-core-ml)
 
 ### Repos
 
