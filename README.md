@@ -63,6 +63,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Leveraging Machine Learning in iOS For Improved Accessibility](https://medium.com/buffer-engineering/leveraging-machine-learning-in-ios-for-improved-accessibility-fc7796c5326f)
 - [IBM Watson Services for Core ML Tutorial](https://www.raywenderlich.com/190191/ibm-watson-services-for-core-ml-tutorial)
 - [Beginning Machine Learning with Keras & Core ML](https://www.raywenderlich.com/181760/beginning-machine-learning-keras-core-ml)
+- [Detecting Whisky brands with Core ML and IBM Watson services](https://martinmitrevski.com/2018/04/14/detecting-whisky-brands-with-core-ml-and-ibm-watson-services/)
 
 ### Repos
 
