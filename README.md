@@ -28,6 +28,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Bringing machine learning to your iOS apps](https://news.realm.io/news/altconf-2017-meghan-kane-bringing-machine-learning-to-your-ios-apps/)
 - [Pros and cons of iOS machine learning APIs](http://machinethink.net/blog/machine-learning-apis/) :rocket:
 - [Core ML: Machine Learning for iOS](https://www.udacity.com/course/core-ml--ud1038) :rocket:
+- [Bootstrapping the Machine Learning Training Process](https://www.youtube.com/watch?v=ugiPfm8ICZo)
 
 ### Models :rocket:
 
@@ -190,6 +191,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 ### TensorFlow
 
 - [Open Source TensorFlow Models (Google I/O '17)](https://www.youtube.com/watch?v=9ziVGkt8Gg4)
+- [Swift for TensorFlow](https://www.youtube.com/watch?v=Yze693W4MaU)
 
 ### Statistics
 
