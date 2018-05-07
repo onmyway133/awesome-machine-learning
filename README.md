@@ -208,6 +208,7 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [clarifai](https://developer.clarifai.com/) Build amazing apps with the world’s best image and video recognition API.
 - [openml](https://www.openml.org/) Exploring machine learning together
 - [Lobe](https://lobe.ai/) Deep learning made simple
+- [Comparing Machine Learning (ML) Services from Various Cloud ML Service Providers](https://medium.com/@tanyathakur6/comparing-machine-learning-ml-services-from-various-cloud-ml-service-providers-63c8a2626cb6)
 
 ### Text Recognition
 
