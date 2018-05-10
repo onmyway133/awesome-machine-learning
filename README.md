@@ -83,6 +83,8 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [Swift for TensorFlow](https://www.youtube.com/watch?v=Yze693W4MaU)
 - [Get started with TensorFlow high-level APIs (Google I/O '18)](https://www.youtube.com/watch?v=tjsHSIG8I08&list=PLOU2XLYxmsIInFRc3M44HUTQc3b_YJ4-Y&index=37)
 - [Getting started with TensorFlow on iOS](http://machinethink.net/blog/tensorflow-on-ios/)
+- [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
+- [TensorFlow for JavaScript (Google I/O '18)](https://www.youtube.com/watch?v=OmofOvMApTU)
 
 ### Repos
 
