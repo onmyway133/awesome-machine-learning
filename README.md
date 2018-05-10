@@ -84,6 +84,10 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [Get started with TensorFlow high-level APIs (Google I/O '18)](https://www.youtube.com/watch?v=tjsHSIG8I08&list=PLOU2XLYxmsIInFRc3M44HUTQc3b_YJ4-Y&index=37)
 - [Getting started with TensorFlow on iOS](http://machinethink.net/blog/tensorflow-on-ios/)
 
+### Repos
+
+- [workshops](https://github.com/tensorflow/workshops) A few exercises for use at events Google IO 2018
+
 ## Machine Learning 
 
 ### Posts
