@@ -3,22 +3,18 @@ I like to explore machine learning, but don't want the to dive into other platfo
 
 This will curates things mostly related to Core ML, and Swift. There are related things in other platforms if you want to get some references
 
-I just learn so I don't want to include very advanced, low level stuff in this list 😇
-
 ## Table of contents
 
 - [Core ML](#core-ml)
+- [TensorFlow](#tensorflow)
 - [Machine Learning](#machine-learning)
-- [Misc](#misc)
 
 ## Core ML
 
-### General
+### Introduction
 
 - [Machine Learning](https://developer.apple.com/machine-learning/) Build more intelligent apps with machine learning.
 - [Apple Machine Learning Journal](https://machinelearning.apple.com/)
-
-### Introduction
 
 - [Introducing Core ML](https://developer.apple.com/videos/play/wwdc2017/703/)
 - [Core ML in depth](https://developer.apple.com/videos/play/wwdc2017/710/)
@@ -79,9 +75,18 @@ I just learn so I don't want to include very advanced, low level stuff in this l
  - [GestureAI-CoreML-iOS](https://github.com/akimach/GestureAI-CoreML-iOS) Hand-gesture recognition on iOS app using CoreML
  - [visual-recognition-coreml](https://github.com/watson-developer-cloud/visual-recognition-coreml) Classify images offline using Watson Visual Recognition and Core ML
  
+## TensorFlow
+
+### Posts
+
+- [Open Source TensorFlow Models (Google I/O '17)](https://www.youtube.com/watch?v=9ziVGkt8Gg4)
+- [Swift for TensorFlow](https://www.youtube.com/watch?v=Yze693W4MaU)
+- [Get started with TensorFlow high-level APIs (Google I/O '18)](https://www.youtube.com/watch?v=tjsHSIG8I08&list=PLOU2XLYxmsIInFRc3M44HUTQc3b_YJ4-Y&index=37)
+- [Getting started with TensorFlow on iOS](http://machinethink.net/blog/tensorflow-on-ios/)
+
 ## Machine Learning 
 
-### Fundamental
+### Posts
 
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
@@ -102,17 +107,16 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) :rocket:
 - [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
-
-### Posts
-
 - [Machine Learning Algorithm for Flappy Bird using Neural Network and Genetic Algorithm](http://www.askforgametask.com/tutorial/machine-learning-algorithm-flappy-bird/)
- 
-## Misc
-
-### Posts
-
 - [Understanding How Machines Learn, Through Prototyping](https://medium.com/bigtomorrow/understanding-how-machines-learn-through-prototyping-9bdaa3ce7baa#.mura2rwy2) :rocket:
 - [Training on the device](http://machinethink.net/blog/training-on-device/)
+- [Machine Learning for iOS](https://www.invasivecode.com/weblog/machine-learning-swift-ios/)
+- [Use TensorFlow and BNNS to Add Machine Learning to your Mac or iOS App](https://www.bignerdranch.com/blog/use-tensorflow-and-bnns-to-add-machine-learning-to-your-mac-or-ios-app/)
+- [The “hello world” of neural networks](http://machinethink.net/blog/the-hello-world-of-neural-networks/)
+- [Convolutional Neural Networks in iOS 10 and macOS](https://www.invasivecode.com/weblog/convolutional-neural-networks-ios-10-macos-sierra/)
+- [LearningMachineLearning](https://github.com/graceavery/LearningMachineLearning) Swift implementation of "Data Science From Scratch" and http://karpathy.github.io/neuralnets/
+- [The “hello world” of neural networks](http://machinethink.net/blog/the-hello-world-of-neural-networks/) 👶
+- [EmojiIntelligence](https://github.com/Luubra/EmojiIntelligence) Neural Network built in Apple Playground using Swift 👶
 
 ### Vision
 
@@ -145,17 +149,6 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 - [Gems of GameplayKit](https://vimeo.com/album/4786409/video/235143936)
 - [GameplayKit: Beyond Games](https://academy.realm.io/posts/sash-zats-gameplaykit-beyond-games/)
 
-### Guide in Swift
-
-- [Machine Learning for iOS](https://www.invasivecode.com/weblog/machine-learning-swift-ios/)
-- [Use TensorFlow and BNNS to Add Machine Learning to your Mac or iOS App](https://www.bignerdranch.com/blog/use-tensorflow-and-bnns-to-add-machine-learning-to-your-mac-or-ios-app/)
-- [The “hello world” of neural networks](http://machinethink.net/blog/the-hello-world-of-neural-networks/)
-- [Convolutional Neural Networks in iOS 10 and macOS](https://www.invasivecode.com/weblog/convolutional-neural-networks-ios-10-macos-sierra/)
-- [LearningMachineLearning](https://github.com/graceavery/LearningMachineLearning) Swift implementation of "Data Science From Scratch" and http://karpathy.github.io/neuralnets/
-- [Getting started with TensorFlow on iOS](http://machinethink.net/blog/tensorflow-on-ios/)
-- [The “hello world” of neural networks](http://machinethink.net/blog/the-hello-world-of-neural-networks/) 👶
-- [EmojiIntelligence](https://github.com/Luubra/EmojiIntelligence) Neural Network built in Apple Playground using Swift 👶
-
 ### Courses
 
 - [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
@@ -187,11 +180,6 @@ I just learn so I don't want to include very advanced, low level stuff in this l
 
 - [Accelerate-in-Swift](https://github.com/hyperjeff/Accelerate-in-Swift) Swift example codes for the Accelerate.framework
 - [Surge](https://github.com/mattt/Surge) A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.
-
-### TensorFlow
-
-- [Open Source TensorFlow Models (Google I/O '17)](https://www.youtube.com/watch?v=9ziVGkt8Gg4)
-- [Swift for TensorFlow](https://www.youtube.com/watch?v=Yze693W4MaU)
 
 ### Statistics
 
