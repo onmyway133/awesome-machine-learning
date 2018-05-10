@@ -61,6 +61,7 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [IBM Watson Services for Core ML Tutorial](https://www.raywenderlich.com/190191/ibm-watson-services-for-core-ml-tutorial)
 - [Beginning Machine Learning with Keras & Core ML](https://www.raywenderlich.com/181760/beginning-machine-learning-keras-core-ml)
 - [Detecting Whisky brands with Core ML and IBM Watson services](https://martinmitrevski.com/2018/04/14/detecting-whisky-brands-with-core-ml-and-ibm-watson-services/)
+- [Detecting Avengers superheroes in your iOS app with IBM Watson and CoreML](https://medium.com/flawless-app-stories/detecting-avengers-superheroes-in-your-ios-app-with-ibm-watson-and-coreml-fe38e493a4d1)
 
 ### Repos
 
