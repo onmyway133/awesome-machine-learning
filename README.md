@@ -91,6 +91,12 @@ This will curates things mostly related to Core ML, and Swift. There are related
 
 - [workshops](https://github.com/tensorflow/workshops) A few exercises for use at events Google IO 2018
 
+### Courses
+
+- [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/)
+- [Deep Learning with Python by Francois Chollet](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
+- [Learn from ML experts at Google](https://ai.google/education)
+
 ## Machine Learning 
 
 ### Posts
