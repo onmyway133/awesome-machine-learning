@@ -15,7 +15,6 @@ This will curates things mostly related to Core ML, and Swift. There are related
 
 - [Machine Learning](https://developer.apple.com/machine-learning/) Build more intelligent apps with machine learning.
 - [Apple Machine Learning Journal](https://machinelearning.apple.com/)
-
 - [Introducing Core ML](https://developer.apple.com/videos/play/wwdc2017/703/)
 - [Core ML in depth](https://developer.apple.com/videos/play/wwdc2017/710/)
 - [Core ML and Vision: Machine Learning in iOS 11 Tutorial](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
