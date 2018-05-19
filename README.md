@@ -7,23 +7,11 @@ This will curates things mostly related to Core ML, and Swift. There are related
 
 - [Core ML](#core-ml)
 - [TensorFlow](#tensorflow)
+- [Keras](#keras)
+- [Turi Create](#turi-create)
 - [Machine Learning](#machine-learning)
 
 ## Core ML
-
-### Introduction
-
-- [Machine Learning](https://developer.apple.com/machine-learning/) Build more intelligent apps with machine learning.
-- [Apple Machine Learning Journal](https://machinelearning.apple.com/)
-- [Introducing Core ML](https://developer.apple.com/videos/play/wwdc2017/703/)
-- [Core ML in depth](https://developer.apple.com/videos/play/wwdc2017/710/)
-- [Core ML and Vision: Machine Learning in iOS 11 Tutorial](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
-- [iOS 11: Machine Learning for everyone](http://machinethink.net/blog/ios-11-machine-learning-for-everyone/)
-- [Everything a Swift Dev Ever Wanted to Know About Machine Learning](https://news.realm.io/news/swift-developer-on-machine-learning-try-swift-2017-gallagher/)
-- [Bringing machine learning to your iOS apps](https://news.realm.io/news/altconf-2017-meghan-kane-bringing-machine-learning-to-your-ios-apps/)
-- [Pros and cons of iOS machine learning APIs](http://machinethink.net/blog/machine-learning-apis/) :rocket:
-- [Core ML: Machine Learning for iOS](https://www.udacity.com/course/core-ml--ud1038) :rocket:
-- [Bootstrapping the Machine Learning Training Process](https://www.youtube.com/watch?v=ugiPfm8ICZo)
 
 ### Models :rocket:
 
@@ -61,6 +49,17 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [Beginning Machine Learning with Keras & Core ML](https://www.raywenderlich.com/181760/beginning-machine-learning-keras-core-ml)
 - [Detecting Whisky brands with Core ML and IBM Watson services](https://martinmitrevski.com/2018/04/14/detecting-whisky-brands-with-core-ml-and-ibm-watson-services/)
 - [Detecting Avengers superheroes in your iOS app with IBM Watson and CoreML](https://medium.com/flawless-app-stories/detecting-avengers-superheroes-in-your-ios-app-with-ibm-watson-and-coreml-fe38e493a4d1)
+- [Machine Learning](https://developer.apple.com/machine-learning/) Build more intelligent apps with machine learning.
+- [Apple Machine Learning Journal](https://machinelearning.apple.com/)
+- [Introducing Core ML](https://developer.apple.com/videos/play/wwdc2017/703/)
+- [Core ML in depth](https://developer.apple.com/videos/play/wwdc2017/710/)
+- [Core ML and Vision: Machine Learning in iOS 11 Tutorial](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
+- [iOS 11: Machine Learning for everyone](http://machinethink.net/blog/ios-11-machine-learning-for-everyone/)
+- [Everything a Swift Dev Ever Wanted to Know About Machine Learning](https://news.realm.io/news/swift-developer-on-machine-learning-try-swift-2017-gallagher/)
+- [Bringing machine learning to your iOS apps](https://news.realm.io/news/altconf-2017-meghan-kane-bringing-machine-learning-to-your-ios-apps/)
+- [Pros and cons of iOS machine learning APIs](http://machinethink.net/blog/machine-learning-apis/) :rocket:
+- [Core ML: Machine Learning for iOS](https://www.udacity.com/course/core-ml--ud1038) :rocket:
+- [Bootstrapping the Machine Learning Training Process](https://www.youtube.com/watch?v=ugiPfm8ICZo)
 
 ### Repos
 
@@ -86,6 +85,7 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
 - [TensorFlow for JavaScript (Google I/O '18)](https://www.youtube.com/watch?v=OmofOvMApTU)
 - [Colab](https://colab.research.google.com) Colaboratory is a Google research project created to help disseminate machine learning education and research
+- [Use TensorFlow and BNNS to Add Machine Learning to your Mac or iOS App](https://www.bignerdranch.com/blog/use-tensorflow-and-bnns-to-add-machine-learning-to-your-mac-or-ios-app/)
 
 ### Repos
 
@@ -96,6 +96,19 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/)
 - [Deep Learning with Python by Francois Chollet](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
 - [Learn from ML experts at Google](https://ai.google/education)
+
+## Keras
+
+### Posts
+
+- [Running Keras models on iOS with CoreML](https://www.pyimagesearch.com/2018/04/23/running-keras-models-on-ios-with-coreml/)
+
+## Turi Create
+
+### Posts
+
+- [Building Not Hotdog with Turi Create and Core ML — in an afternoon](https://hackernoon.com/building-not-hotdog-with-turi-create-and-core-ml-in-an-afternoon-231b14738edf)
+- [Natural Language Processing on iOS with Turi Create](https://www.raywenderlich.com/185515/natural-language-processing-on-ios-with-turi-create)
 
 ## Machine Learning 
 
@@ -124,7 +137,6 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [Understanding How Machines Learn, Through Prototyping](https://medium.com/bigtomorrow/understanding-how-machines-learn-through-prototyping-9bdaa3ce7baa#.mura2rwy2) :rocket:
 - [Training on the device](http://machinethink.net/blog/training-on-device/)
 - [Machine Learning for iOS](https://www.invasivecode.com/weblog/machine-learning-swift-ios/)
-- [Use TensorFlow and BNNS to Add Machine Learning to your Mac or iOS App](https://www.bignerdranch.com/blog/use-tensorflow-and-bnns-to-add-machine-learning-to-your-mac-or-ios-app/)
 - [The “hello world” of neural networks](http://machinethink.net/blog/the-hello-world-of-neural-networks/)
 - [Convolutional Neural Networks in iOS 10 and macOS](https://www.invasivecode.com/weblog/convolutional-neural-networks-ios-10-macos-sierra/)
 - [LearningMachineLearning](https://github.com/graceavery/LearningMachineLearning) Swift implementation of "Data Science From Scratch" and http://karpathy.github.io/neuralnets/
