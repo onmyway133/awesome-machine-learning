@@ -179,7 +179,7 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
 - [Machine Learning](http://introtodeeplearning.com/index.html)
 - [Introduction - Intro to Machine Learning on Udacity](https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
-- [Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/watch?v=hfK_dvC-avg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) :star: :star:
+- [Machine Learning & Deep Learning Fundamentals by deeplizard](https://www.youtube.com/watch?v=hfK_dvC-avg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) :star: :star:
 
 ### Interview
 
