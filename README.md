@@ -103,6 +103,7 @@ This will curates things mostly related to Core ML, and Swift. There are related
 
 - [Running Keras models on iOS with CoreML](https://www.pyimagesearch.com/2018/04/23/running-keras-models-on-ios-with-coreml/)
 - [Keras and Convolutional Neural Networks (CNNs)](https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/)
+- [Keras Tutorial : Transfer Learning using pre-trained models]()https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/
 
 ## Turi Create
 
