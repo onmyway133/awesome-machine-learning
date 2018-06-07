@@ -147,6 +147,10 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6) :star:
 - [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA) :star:
 
+### Create ML
+
+- [Introduction to Create ML: How to Train Your Own Machine Learning Model in Xcode 10](https://www.appcoda.com/create-ml/)
+
 ### Vision
 
 - [Vision](https://developer.apple.com/documentation/vision) Apply high-performance image analysis and computer vision techniques to identify faces, detect features, and classify scenes in images and video.
