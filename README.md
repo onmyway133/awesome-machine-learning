@@ -151,6 +151,10 @@ This will curates things mostly related to Core ML, and Swift. There are related
 
 - [Introduction to Create ML: How to Train Your Own Machine Learning Model in Xcode 10](https://www.appcoda.com/create-ml/)
 
+### ML Kit
+
+- [Introducing ML Kit](https://developers.googleblog.com/2018/05/introducing-ml-kit.html)
+
 ### Vision
 
 - [Vision](https://developer.apple.com/documentation/vision) Apply high-performance image analysis and computer vision techniques to identify faces, detect features, and classify scenes in images and video.
