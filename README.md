@@ -112,6 +112,7 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [Building Not Hotdog with Turi Create and Core ML — in an afternoon](https://hackernoon.com/building-not-hotdog-with-turi-create-and-core-ml-in-an-afternoon-231b14738edf)
 - [Natural Language Processing on iOS with Turi Create](https://www.raywenderlich.com/185515/natural-language-processing-on-ios-with-turi-create)
 - [Machine Learning in iOS: Turi Create and CoreML](https://medium.com/flawless-app-stories/machine-learning-in-ios-turi-create-and-coreml-5ddce0dc8e26)
+- [A Guide to Turi Create](https://developer.apple.com/videos/play/wwdc2018/712/)
 
 ## Machine Learning 
 
