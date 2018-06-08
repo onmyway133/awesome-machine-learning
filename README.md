@@ -35,6 +35,7 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [turicreate](https://github.com/apple/turicreate) Turi Create simplifies the development of custom machine learning models.
 - [Netron](https://github.com/lutzroeder/Netron) Viewer for neural network and machine learning models
 - [onnx-coreml](https://github.com/onnx/onnx-coreml) ONNX to CoreML Converter
+- [tf-coreml](https://github.com/tf-coreml/tf-coreml) TensorFlow to CoreML Converter
 
 ### Posts
 
