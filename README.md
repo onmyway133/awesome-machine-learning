@@ -28,6 +28,7 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [ModelZoo](https://github.com/cocoa-ai/ModelZoo) A central GitHub repository for sharing Core ML models 
 - [StyleArt](https://github.com/ileafsolutions/StyleArt) Style Art library process images using COREML with a set of pre trained machine learning models and convert them to Art style
 - [models](https://github.com/Sarasra/models) Models and examples built with TensorFlow
+- [Core ML Store](https://coreml.store/)
 
 ### Tools
 
