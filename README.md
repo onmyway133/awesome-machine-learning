@@ -123,12 +123,7 @@ This will curates things mostly related to Core ML, and Swift. There are related
 ### Getting started
 
 - [A Thank You note to Towards Data Science](https://towardsdatascience.com/a-thank-you-note-to-towards-data-science-58b714a824f8)
-
-### Convolution neural network
-
-- [CS231n Winter 2016 Lecture 7 Convolutional Neural Networks](https://www.youtube.com/watch?v=AQirPKrAyDg)
-- [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6) :star:
-- [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA) :star:
+- [This is why anyone can learn Machine Learning](https://medium.freecodecamp.org/this-is-why-anyone-can-learn-machine-learning-a5333ee64dff)
 
 ### Posts
 
@@ -160,6 +155,12 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [LearningMachineLearning](https://github.com/graceavery/LearningMachineLearning) Swift implementation of "Data Science From Scratch" and http://karpathy.github.io/neuralnets/
 - [The “hello world” of neural networks](http://machinethink.net/blog/the-hello-world-of-neural-networks/) 👶
 - [EmojiIntelligence](https://github.com/Luubra/EmojiIntelligence) Neural Network built in Apple Playground using Swift 👶
+
+### Convolution neural network
+
+- [CS231n Winter 2016 Lecture 7 Convolutional Neural Networks](https://www.youtube.com/watch?v=AQirPKrAyDg)
+- [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6) :star:
+- [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA) :star:
 
 ## Misc
 
