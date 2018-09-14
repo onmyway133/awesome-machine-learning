@@ -155,6 +155,7 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [LearningMachineLearning](https://github.com/graceavery/LearningMachineLearning) Swift implementation of "Data Science From Scratch" and http://karpathy.github.io/neuralnets/
 - [The “hello world” of neural networks](http://machinethink.net/blog/the-hello-world-of-neural-networks/) 👶
 - [EmojiIntelligence](https://github.com/Luubra/EmojiIntelligence) Neural Network built in Apple Playground using Swift 👶
+- [Machine Learning: End-to-end Classification](https://www.raywenderlich.com/5554-machine-learning-end-to-end-classification)
 
 ### Convolution neural network
 
