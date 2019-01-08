@@ -64,6 +64,8 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [Pros and cons of iOS machine learning APIs](http://machinethink.net/blog/machine-learning-apis/) :rocket:
 - [Core ML: Machine Learning for iOS](https://www.udacity.com/course/core-ml--ud1038) :rocket:
 - [Bootstrapping the Machine Learning Training Process](https://www.youtube.com/watch?v=ugiPfm8ICZo)
+- [Detecting Pneumonia in an iOS App with Create ML](https://heartbeat.fritz.ai/detecting-pneumonia-in-an-ios-app-with-create-ml-5cff2a60a3d)
+- [How to fine-tune ResNet in Keras and use it in an iOS App via Core ML](https://heartbeat.fritz.ai/how-to-fine-tune-resnet-in-keras-and-use-it-in-an-ios-app-via-core-ml-ee7fd84c1b26)
 
 ### Repos
 
