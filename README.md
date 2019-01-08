@@ -165,6 +165,10 @@ This will curates things mostly related to Core ML, and Swift. There are related
 
 ## Misc
 
+### Blogs
+
+- [Fritz Heartbeat](https://heartbeat.fritz.ai/) :star:
+
 ### Create ML
 
 - [Introduction to Create ML: How to Train Your Own Machine Learning Model in Xcode 10](https://www.appcoda.com/create-ml/)
