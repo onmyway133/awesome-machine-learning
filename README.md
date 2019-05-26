@@ -158,6 +158,8 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [The “hello world” of neural networks](http://machinethink.net/blog/the-hello-world-of-neural-networks/) 👶
 - [EmojiIntelligence](https://github.com/Luubra/EmojiIntelligence) Neural Network built in Apple Playground using Swift 👶
 - [Machine Learning: End-to-end Classification](https://www.raywenderlich.com/5554-machine-learning-end-to-end-classification)
+- [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU&t=315s) :rocket:
+
 
 ### Convolution neural network
 
