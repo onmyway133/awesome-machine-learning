@@ -38,7 +38,7 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [Netron](https://github.com/lutzroeder/Netron) Viewer for neural network and machine learning models
 - [onnx-coreml](https://github.com/onnx/onnx-coreml) ONNX to CoreML Converter
 - [tf-coreml](https://github.com/tf-coreml/tf-coreml) TensorFlow to CoreML Converter
-- [tensorwatch](https://github.com/microsoft/tensorwatch)
+- [tensorwatch](https://github.com/microsoft/tensorwatch) Debugging and visualization tool for machine learning and data science
 
 ### Posts
 
