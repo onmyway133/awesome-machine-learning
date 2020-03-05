@@ -1,3 +1,12 @@
+❤️ Support my app ❤️ 
+
+- [Push Hero - pure Swift native macOS application to test push notifications](https://www.producthunt.com/posts/push-hero-2)
+- [Quick Access - Organise files in the Mac menu bar](https://www.producthunt.com/posts/quick-access)
+- [Frame recorder - Recorder gif and video with frame](https://www.producthunt.com/posts/frame-recorder)
+- [Other apps](https://onmyway133.github.io/projects/)
+
+❤️❤️😇😍🤘❤️❤️
+
 # fantastic-machine-learning
 I like to explore machine learning, but don't want the to dive into other platforms, like Python or Javascript, to understand some frameworks, or TensorFlow. Luckily, at WWDC 2017, Apple introduces Core ML, Vision, ARKit, which makes working with machine learning so much easier. With all the pre-trained models, we can build great things. It's good to feel the outcome first, then try to explore advanced topics and underlying mechanisms 🤖
 
