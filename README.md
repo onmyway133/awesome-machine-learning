@@ -10,8 +10,6 @@
 
 ❤️❤️😇😍🤘❤️❤️
 
-[![](https://images.gitads.io/awesome-machine-learning)](https://tracking.gitads.io/?repo=awesome-machine-learning)
-
 I like to explore machine learning, but don't want the to dive into other platforms, like Python or Javascript, to understand some frameworks, or TensorFlow. Luckily, at WWDC 2017, Apple introduces Core ML, Vision, ARKit, which makes working with machine learning so much easier. With all the pre-trained models, we can build great things. It's good to feel the outcome first, then try to explore advanced topics and underlying mechanisms 🤖
 
 This will curates things mostly related to Core ML, and Swift. There are related things in other platforms if you want to get some references
