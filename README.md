@@ -78,6 +78,7 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [Bootstrapping the Machine Learning Training Process](https://www.youtube.com/watch?v=ugiPfm8ICZo)
 - [Detecting Pneumonia in an iOS App with Create ML](https://heartbeat.fritz.ai/detecting-pneumonia-in-an-ios-app-with-create-ml-5cff2a60a3d)
 - [How to fine-tune ResNet in Keras and use it in an iOS App via Core ML](https://heartbeat.fritz.ai/how-to-fine-tune-resnet-in-keras-and-use-it-in-an-ios-app-via-core-ml-ee7fd84c1b26)
+- [Five Common Data Quality Gotchas in Machine Learning and How to Detect Them Quickly](https://doordash.engineering/2022/09/27/five-common-data-quality-gotchas-in-machine-learning-and-how-to-detect-them-quickly/)
 
 ### Repos
 
