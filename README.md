@@ -115,6 +115,7 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/)
 - [Deep Learning with Python by Francois Chollet](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
 - [Learn from ML experts at Google](https://ai.google/education)
+- [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/cloud-machine) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Keras
 
