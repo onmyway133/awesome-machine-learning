@@ -47,6 +47,7 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [torch2coreml](https://github.com/prisma-ai/torch2coreml) This tool helps convert Torch7 models into Apple CoreML 
 - [turicreate](https://github.com/apple/turicreate) Turi Create simplifies the development of custom machine learning models.
 - [Netron](https://github.com/lutzroeder/Netron) Viewer for neural network and machine learning models
+- [light-ocr](https://github.com/arcships/light-ocr) Fast, offline OCR for Node.js and C++, using ONNX Runtime with CoreML acceleration on macOS
 - [onnx-coreml](https://github.com/onnx/onnx-coreml) ONNX to CoreML Converter
 - [tf-coreml](https://github.com/tf-coreml/tf-coreml) TensorFlow to CoreML Converter
 - [tensorwatch](https://github.com/microsoft/tensorwatch) Debugging and visualization tool for machine learning and data science
